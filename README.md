@@ -1,4 +1,4 @@
-# Data Pipeline with dbt, Snowflake, and Airflow
+# ELT Data Pipeline for Business Intelligence
 
 This project implements a data pipeline using industry-standard tools such as dbt, Snowflake, and Airflow. It facilitates the extraction, loading, and transformation (ELT) process of data, enabling analytics and reporting within the organization.
 
